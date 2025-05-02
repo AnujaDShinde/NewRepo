@@ -5,7 +5,7 @@ nodejs 'NodeJS 23' // This name must match what's configured in Jenkins -> Globa
 Configuration
 }
 environment {
-REPO_URL = 'https://github.com/jain-santosh/web-cicd-practice.git'
+REPO_URL = 'https://github.com/AnujaDShinde/NewRepo.git'
 BUILD_DIR = 'build'
 PORT = '5000'
 }
